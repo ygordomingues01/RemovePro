@@ -1,0 +1,89 @@
+body{
+    font-family: 'Karma', serif;
+    margin: 0;
+    background-color: hsl(208, 85%, 87%);
+}
+
+a { 
+    color: inherit; 
+}
+
+nav{
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 0;
+    display: flex;
+}
+.nav .div {
+    justify-content: space-around;
+    align-items: left;
+    padding-left: 10px;
+
+
+}
+
+.texto {
+    align-items: center;
+    text-align: right;
+    justify-content: space-around;
+    display: flex;
+}
+section{
+    margin: 0;
+    padding-left: 60px;
+    padding-top: 100px;
+    padding-bottom: 100px;    
+}
+footer{
+margin: none;
+}
+img nav{
+    width:100%;
+}
+#img{
+    width: 115px;
+}
+
+#QR{
+    margin-top: 15px;
+    width: 80px;
+}
+
+#menu {
+    display: flex;
+    padding: 26px;
+}
+li{
+    margin-right: 24px; 
+    font-family: 'Alfa Slab One', cursive;
+}
+p{
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+}
+h1{
+    padding: 20px;
+    font-family: 'Alfa Slab One', cursive;
+}
+h2{
+    padding: 0;
+    font-family: 'Alfa Slab One', cursive;
+}
+p{
+    padding: 0;
+}
+.QR{
+padding-left: 40%;
+
+}
+footer{
+    padding-left: 60px;
+    background-color:rgb(0, 0, 0);
+    margin: 0;
+    display: flex; 
+    color:  hsl(208, 85%, 87%);  
+}
